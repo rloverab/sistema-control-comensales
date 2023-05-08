@@ -17,10 +17,10 @@ de Santa Antonio de los Altos, estado Miranda, Venezuela.
 - SQL
 
 ## Recursos
-- **Kit de desarrollo:** OpenJDK 17
-- **Motor de base de datos:** MariaDB 10.6
-- **Entorno de desarrollo:** Apache Netbeans 16.0 LTS
-- **Diseño de base de datos:** DBeaver Community Edition 22.0
+- **Kit de desarrollo:** OpenJDK 11
+- **Motor de base de datos:** MariaDB 10.3
+- **Entorno de desarrollo:** Apache Netbeans 13 LTS
+- **Diseño de base de datos:** DBeaver Community Edition 22
 - **Diseño de reportes:** JasperSoft Studio Community Edition 6.19.1
 
 ## Librerias externas
